@@ -5,7 +5,7 @@ Este repositorio recoge el análisis completo de un experimento de tipo Diseño 
 **Datos no corresponden a pacientes o controles, son propios.
 ---
 
-## Contexto y motivación
+## Contexto experimental
 
 El análisis metabolómico de muestras fecales mediante GC-MS requiere una etapa de extracción que es altamente sensible a las condiciones operativas. Pequeñas variaciones en el tiempo de incubación de la fibra, en la temperatura de desorción o en el tiempo de exposición al headspace pueden traducirse en diferencias sustanciales en la cobertura y la intensidad de los perfiles cromatográficos.
 
