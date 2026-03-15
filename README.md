@@ -128,7 +128,7 @@ donde $L$ es el límite inferior aceptable, $U$ es el valor objetivo y $s$ es un
 
 La deseabilidad compuesta se calcula como la media geométrica de las cuatro componentes:
 
-$$D_\text{biomarkers} = \left(d_\text{indoles} \times d_\text{p\text{-}cresol} \times d_\text{methional} \times d_\text{carbox}\right)^{1/4}$$
+$$D_{\text{biomarkers}} = \left(d_{\text{Indoles}} \cdot d_{\text{p-Cresol}} \cdot d_{\text{Methional}} \cdot d_{\text{Ácidos}}\right)^{1/4}$$
 
 La propiedad clave de la media geométrica es que si cualquier $d_i = 0$, el índice compuesto colapsa a cero, garantizando que la solución óptima no sacrifique ninguna familia de biomarcadores.
 
